@@ -23,7 +23,7 @@ This project is based on AI powered movie recommendation system that uses semant
 4. Real time UI using Streamlit
 
 ## Endee Usage
-Endee is used as a vector database to store embeddings and perform similarity search efficiently.
+Endee is used as a vector database concept for storing embeddings and performing semantic similarity search.
 
 ## How to Run
 
