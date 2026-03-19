@@ -25,6 +25,11 @@ This project is based on AI powered movie recommendation system that uses semant
 ## Endee Usage
 Endee is used as a vector database concept for storing embeddings and performing semantic similarity search.
 
+
+## UI Overview
+<img width="1919" height="1027" alt="Screenshot 2026-03-19 152218" src="https://github.com/user-attachments/assets/8df5388c-6126-49e0-8280-f4d050debd35" />
+
+
 ## How to Run
 
 ```bash
